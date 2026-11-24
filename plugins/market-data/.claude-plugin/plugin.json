@@ -1,0 +1,35 @@
+{
+  "name": "market-data",
+  "displayName": "Market Data",
+  "version": "1.0.0",
+  "description": "Claude Code skills for market data engineering: split, bonus and dividend adjustment and vendor defaults (Yahoo, yfinance, Massive/Polygon, Alpaca, Databento, Tiingo, EODHD, NSE), data quality checks and survivorship bias, start-labelled bars and volume/dollar bars, exchange calendars (NYSE, NSE, Muhurat), UTC timestamps and DST, and Parquet/DuckDB/QuestDB storage.",
+  "author": {
+    "name": "Viprasol Tech",
+    "email": "support@viprasol.com",
+    "url": "https://viprasol.com"
+  },
+  "homepage": "https://github.com/Viprasol-Tech/claude-market-data-skills",
+  "repository": "https://github.com/Viprasol-Tech/claude-market-data-skills",
+  "license": "MIT",
+  "keywords": [
+    "market-data",
+    "stock-data",
+    "corporate-actions",
+    "stock-split",
+    "dividend-adjustment",
+    "yfinance",
+    "polygon",
+    "alpaca",
+    "databento",
+    "ohlcv",
+    "tick-data",
+    "trading-calendar",
+    "nse",
+    "parquet",
+    "duckdb",
+    "questdb",
+    "backtesting",
+    "data-quality",
+    "claude-code-skills"
+  ]
+}

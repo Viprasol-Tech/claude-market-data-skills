@@ -1,0 +1,26 @@
+{
+  "name": "claude-market-data-skills",
+  "description": "Free Claude Code skills for market data engineering: corporate-action adjustment, data quality checks, bar building, exchange calendars, timestamps and storage for trading systems.",
+  "owner": {
+    "name": "Viprasol Tech",
+    "url": "https://viprasol.com"
+  },
+  "plugins": [
+    {
+      "name": "market-data",
+      "source": "./plugins/market-data",
+      "description": "6 skills: corporate-actions, data-quality, bar-building, market-calendars, timestamps and data-storage, with a tested price adjuster, bar quality checker and trades-to-bars builder.",
+      "category": "data",
+      "tags": [
+        "market-data",
+        "backtesting",
+        "corporate-actions",
+        "ohlcv",
+        "parquet",
+        "duckdb",
+        "trading-calendar",
+        "data-quality"
+      ]
+    }
+  ]
+}
