@@ -127,6 +127,7 @@ Corrections with a link to the official documentation are the most valuable
 contribution. See [CONTRIBUTING.md](CONTRIBUTING.md) and run
 `python tests/validate_repo.py` before opening a PR. More free Claude Code
 packs from Viprasol:
+[claude-ml-trading-skills](https://github.com/Viprasol-Tech/claude-ml-trading-skills) ·
 [claude-ai-trading-agent-skills](https://github.com/Viprasol-Tech/claude-ai-trading-agent-skills) ·
 [claude-trading-skills](https://github.com/Viprasol-Tech/claude-trading-skills) ·
 [claude-options-trading-skills](https://github.com/Viprasol-Tech/claude-options-trading-skills) ·
